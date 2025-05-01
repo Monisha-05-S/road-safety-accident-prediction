@@ -7,7 +7,7 @@
 **Institution**: Tagore Engineering College  
 **Department**: Information Technology  
 **Date of Submission**: 1st May 2025  
-**GitHub Repository Link**: [Update the project source code to your GitHub Repository]
+**GitHub Repository Link**:(https://github.com/Monisha-05-S/road-safety-accident-prediction)
 
 ## 1. Problem Statement
 
